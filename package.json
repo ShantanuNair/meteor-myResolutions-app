@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ShantanuNair/meteor-myResolutions-app/issues"
   },
-  "homepage": "https://github.com/ShantanuNair/meteor-myResolutions-app#readme"
+  "homepage": "https://github.com/ShantanuNair/meteor-myResolutions-app#readme",
+  "dependencies": {
+    "react": "^15.0.2"
+  }
 }

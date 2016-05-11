@@ -1,10 +1,19 @@
 {
   "name": "myresolutions",
-  "private": true,
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "index.js",
   "scripts": {
-    "start": "meteor run"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShantanuNair/meteor-myResolutions-app.git"
+  },
+  "author": "Shantanu Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShantanuNair/meteor-myResolutions-app/issues"
+  },
+  "homepage": "https://github.com/ShantanuNair/meteor-myResolutions-app#readme"
 }
